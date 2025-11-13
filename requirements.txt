@@ -1,0 +1,12 @@
+# AI/ML
+groq>=0.4.0
+
+# MCP Protocol - Install from GitHub
+git+https://github.com/modelcontextprotocol/python-sdk.git
+
+# Data Sources
+arxiv>=2.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+nest-asyncio>=1.5.8
